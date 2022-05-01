@@ -125,14 +125,14 @@ Esta função é responsável por remover um dado específicos de um **id** usan
 
 ```
 {
-    "data": [
-        {
-            "id": "12345",
-            "cpf": "12345",
-            "nome": "O pirigoso",
-            "carteira": "AB",
-        },
-    ].
+  "data": [
+    {
+      "id": "12345",
+      "cpf": "12345",
+      "nome": "O pirigoso",
+      "carteira": "AB"
+    }
+  ]
 }
 ```
 
@@ -140,14 +140,14 @@ Esta função é responsável por remover um dado específicos de um **id** usan
 
 ```
 {
-    "data": [
-        {
-            "id": "12345",
-            "placa": "12345",
-            "tipo": "CARRO",
-            "motorista": "O pirigoso",
-        },
-    ].
+  "data": [
+    {
+      "id": "12345",
+      "placa": "12345",
+      "tipo": "CARRO",
+      "motorista": "O pirigoso"
+    }
+  ]
 }
 ```
 
@@ -155,15 +155,15 @@ Esta função é responsável por remover um dado específicos de um **id** usan
 
 ```
 {
-    "data": [
-        {
-            "id": "12345",
-            "veiculo": "12345",
-            "rota": "66",
-            "status": False,
-            "data": "20/20/20"
-        },
-    ].
+  "data": [
+    {
+      "id": "12345",
+      "veiculo": "12345",
+      "rota": "66",
+      "status": false,
+      "data": "20/20/20"
+    }
+  ]
 }
 ```
 
