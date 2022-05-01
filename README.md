@@ -12,17 +12,19 @@ A aplicação se divide em três partes na qual cada uma irá ter uma responsabi
 
 ```
 projeto/
-    model.py
-    controller.py
     data/
         motoristas.json
         veiculos.json
         viagem.json
-    views/
-        view.py
-        motoristaView.py
-        veiculoView.py
-        viagemView.py
+    README.md
+    src/
+        controller.py
+        model.py
+        views/
+            view.py
+            motoristaView.py
+            veiculoView.py
+            viagemView.py
 ```
 
 ## Views
