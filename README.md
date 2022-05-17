@@ -1,8 +1,8 @@
 # Sistema de Viagem
 
 ![img preview](./imgs/img-1.jpeg)
-![img preview](./imgs/img-2.jpeg)
-![img preview](./imgs/img-3.jpeg)
+![img preview](./imgs/img-2.png)
+![img preview](./imgs/img-3.png)
 
 ###### Obs: Os dados precisarão ser persistidos em arquivo físico JSON
 
