@@ -4,8 +4,8 @@ Escreve e acessa dados do arquivo viagem.json
 
 from datetime import datetime
 
-from src.utils import date_convert
-from src.models import model
+from ..utils import date_convert
+from . import model
 
 FILE_NAME: str = 'viagem'
 

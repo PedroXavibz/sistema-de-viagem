@@ -2,7 +2,7 @@
 Menu de viagem
 """
 
-from src.views.view import render_menu
+from .view import render_menu
 from ..config import menu_viagem_opts
 
 

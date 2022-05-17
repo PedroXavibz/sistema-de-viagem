@@ -5,7 +5,7 @@ Implementação da leitura e escrita de dados em arquivos JSON
 import uuid
 import typing
 
-from src.utils import handle_json
+from ..utils import handle_json
 
 tmp_data: dict[str, list[dict[str, any]]] = {'data': []}
 

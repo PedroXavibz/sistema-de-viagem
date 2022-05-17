@@ -7,7 +7,6 @@ import os
 import sys
 import time
 
-import pyfiglet
 import colorama
 
 COLOR_PRIMARY = colorama.Fore.BLUE
@@ -134,9 +133,7 @@ def render_menu(title: str, menu_opts: list[dict[str, any]]) -> None:
     """
     clear_terminal()
 
-    title = pyfiglet.figlet_format(title)
-
-    print(f' {BOLD}{COLOR_PRIMARY}{title}{RESET_COLOR}')
+    print(f' {BOLD}{COLOR_PRIMARY}{title.upper().center(50)}{RESET_COLOR}')
 
     print(f' {COLOR_SECONDARY}'.ljust(50, '═'))
 

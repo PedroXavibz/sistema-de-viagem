@@ -2,7 +2,7 @@
 Escreve e acessa dados do arquivo motorista.json
 """
 
-from src.models import model
+from . import model
 
 FILE_NAME: str = 'motorista'
 

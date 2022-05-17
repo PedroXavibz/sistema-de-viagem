@@ -2,7 +2,7 @@
 Escreve e acessa dados do arquivo veiculo.json
 """
 
-from src.models import model
+from . import model
 
 FILE_NAME: str = 'veiculo'
 

@@ -2,7 +2,7 @@
 Menu principal da aplicação
 """
 
-from src.views.view import render_menu
+from .view import render_menu
 from .. import config
 
 _MENU_UI_ = {

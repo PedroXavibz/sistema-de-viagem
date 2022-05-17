@@ -6,11 +6,11 @@ submenus com opção de cadastro, edição e busca
 
 from datetime import datetime
 
-from src.config import menu_viagem_opts
-from src.utils import handle_input, date_convert
-from src.models import viagem_model, veiculo_model, model
-from src.views import view, viagem_view
-from src.controllers import menu_principal_controller
+from ..config import menu_viagem_opts
+from ..utils import handle_input, date_convert
+from ..models import viagem_model, veiculo_model, model
+from ..views import view, viagem_view
+from . import menu_principal_controller
 
 MAX_OPTIONS: int = menu_viagem_opts['MAX_OPTIONS']
 

@@ -1,7 +1,7 @@
 """
 Menu de motorista
 """
-from src.views.view import render_menu
+from .view import render_menu
 from .. import config
 
 MENU_MOTORISTA = {

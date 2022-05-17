@@ -4,7 +4,7 @@ Manipulando entradas do usuário
 
 import re
 import typing
-from src.views.view import beautiful_input_msg, warning_msg
+from ..views.view import beautiful_input_msg, warning_msg
 
 
 def _handle_empty_inputs_(input_msg: str) -> str:

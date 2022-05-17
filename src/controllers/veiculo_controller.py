@@ -6,10 +6,10 @@ submenus com opção de cadastro, edição e busca
 from typing import Callable
 
 from .. import config
-from src.utils import handle_input
-from src.models import veiculo_model, motorista_model, model
-from src.views import view, veiculo_view
-from src.controllers import menu_principal_controller
+from ..utils import handle_input
+from ..models import veiculo_model, motorista_model, model
+from ..views import view, veiculo_view
+from . import menu_principal_controller
 
 
 MAX_OPTIONS: int = config.menu_veiculo_opts['MAX_OPTIONS']
