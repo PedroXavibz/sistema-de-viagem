@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "veiculo": "TT04",
+            "rota": "35",
+            "data": "12/05/2022",
+            "status": true,
+            "id": "f9748596-a584-4398-976c-e710660f3882"
+        },
+        {
+            "veiculo": "UPY6",
+            "rota": "45",
+            "data": "06/10/2022",
+            "status": true,
+            "id": "75f3f09d-c2d2-4389-beab-f4859c2a3c20"
+        },
+        {
+            "veiculo": "GGH7",
+            "rota": "25",
+            "data": "13/09/2022",
+            "status": false,
+            "id": "adeae1bc-d5cf-4771-8b90-bcb8b0d4369a"
+        },
+        {
+            "veiculo": "M4TY",
+            "rota": "22",
+            "data": "12/04/2023",
+            "status": true,
+            "id": "80a24276-f19f-4d8c-89bd-0006e08b01e1"
+        },
+        {
+            "veiculo": "OR01",
+            "rota": "98",
+            "data": "12/03/2022",
+            "status": true,
+            "id": "6e049466-7bd6-4a42-960d-e3e032002f1f"
+        },
+        {
+            "veiculo": "ASD7",
+            "rota": "66",
+            "data": "23/02/2023",
+            "status": true,
+            "id": "a7ca9dd7-60a1-4313-a904-ce72deb073aa"
+        }
+    ]
+}

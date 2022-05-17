@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "nome": "Pedro Xavier",
+            "cpf": "455",
+            "carteira": "A",
+            "id": "8f12132c-3ca6-420e-8092-d2aa5bf76283"
+        },
+        {
+            "nome": "Miguel Santos",
+            "cpf": "755",
+            "carteira": "B",
+            "id": "50af0023-5e67-4514-bd6c-0fcc06548eb8"
+        },
+        {
+            "nome": "Heitor",
+            "cpf": "321",
+            "carteira": "A",
+            "id": "96650cce-6957-4e03-b1fd-ca163a92191e"
+        },
+        {
+            "nome": "Helena",
+            "cpf": "123",
+            "carteira": "AB",
+            "id": "43e9e0a2-1555-4cf1-8683-346028257b28"
+        },
+        {
+            "nome": "Gael",
+            "cpf": "421",
+            "carteira": "AB",
+            "id": "0ba1d3ac-f37e-4863-b8e1-68a3c464ff14"
+        },
+        {
+            "nome": "Bernardo",
+            "cpf": "899",
+            "carteira": "B",
+            "id": "4836073c-48a1-400e-862d-4316e1bd8bd3"
+        },
+        {
+            "nome": "Alice",
+            "cpf": "632",
+            "carteira": "B",
+            "id": "6f5b0c4b-09b4-4baf-9677-84e8fe8fef4e"
+        },
+        {
+            "nome": "Sophia",
+            "cpf": "222",
+            "carteira": "A",
+            "id": "8c0b3bb6-65bb-4741-9ca8-4dae931429f3"
+        },
+        {
+            "nome": "Gabriel",
+            "cpf": "555",
+            "carteira": "B",
+            "id": "b7455a60-d3fb-499f-ac49-741bff84d192"
+        },
+        {
+            "nome": "Laura",
+            "cpf": "111",
+            "carteira": "AB",
+            "id": "6a9475d4-0e57-4348-84bf-819e3bb5844c"
+        }
+    ]
+}

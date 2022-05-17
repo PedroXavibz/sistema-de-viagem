@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "placa": "M4TY",
+            "tipo": "CARRO",
+            "motorista": "555",
+            "id": "c5c33c95-638c-44b4-bfad-351fda97cc85"
+        },
+        {
+            "placa": "KYU8",
+            "tipo": "CARRO",
+            "motorista": null,
+            "id": "0e5cfc26-dea6-49cb-857c-c8779fa77b7d"
+        },
+        {
+            "placa": "TT04",
+            "tipo": "CARRO",
+            "motorista": "555",
+            "id": "43927327-2bb3-4be9-8488-8c6ecd7ace88"
+        },
+        {
+            "placa": "UPY6",
+            "tipo": "MOTO",
+            "motorista": "455",
+            "id": "9e2f4cfc-ef8b-4043-9f8f-2ccdf2d8eed9"
+        },
+        {
+            "placa": "ASD7",
+            "tipo": "MOTO",
+            "motorista": "899",
+            "id": "ea669a92-7825-4935-a2e4-ec5a81895769"
+        },
+        {
+            "placa": "GGH7",
+            "tipo": "MOTO",
+            "motorista": "123",
+            "id": "70835ca0-75a4-4a64-8612-6aa5643d182e"
+        },
+        {
+            "placa": "OR01",
+            "tipo": "CARRO",
+            "motorista": "111",
+            "id": "82325839-b3f1-45f6-89e8-5ea47cedba4e"
+        },
+        {
+            "placa": "GHUT",
+            "tipo": "MOTO",
+            "motorista": null,
+            "id": "54072220-de5c-48ba-a152-75fd4b23b06a"
+        },
+        {
+            "placa": "RYOU",
+            "tipo": "CARRO",
+            "motorista": "321",
+            "id": "9c18dbf7-c818-4778-8310-819c357cad7b"
+        },
+        {
+            "placa": "KLAT",
+            "tipo": "MOTO",
+            "motorista": null,
+            "id": "69a2e5e9-83a3-4054-ae1a-30b02dce000e"
+        }
+    ]
+}
