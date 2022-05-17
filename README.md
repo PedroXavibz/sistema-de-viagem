@@ -145,7 +145,7 @@ forma correta até mesmo em **leitura e escrita de arquivos JSON**.
 }
 ```
 
-###### Previews
+## Preview
 
 ![img preview](./imgs/img-2.png)
 
