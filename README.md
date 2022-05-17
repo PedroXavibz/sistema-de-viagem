@@ -2,10 +2,6 @@
 
 ![img preview](./imgs/img-1.jpeg)
 
-![img preview](./imgs/img-2.png)
-
-![img preview](./imgs/img-3.png)
-
 ###### Obs: Os dados precisarão ser persistidos em arquivo físico JSON
 
 A aplicação se divide em três partes na qual cada uma irá ter uma responsabilidade específica, estas três partes são divididas em:
@@ -148,3 +144,9 @@ forma correta até mesmo em **leitura e escrita de arquivos JSON**.
     ].
 }
 ```
+
+###### Previews
+
+![img preview](./imgs/img-2.png)
+
+![img preview](./imgs/img-3.png)
