@@ -1,5 +1,7 @@
 # Sistema de Viagem
 
+![img preview](img.jpeg)
+
 ###### Obs: Os dados precisarão ser persistidos em arquivo físico JSON
 
 A aplicação se divide em três partes na qual cada uma irá ter uma responsabilidade específica, estas três partes são divididas em:
