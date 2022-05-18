@@ -4,6 +4,11 @@
 
 ###### Obs: Os dados precisarão ser persistidos em arquivo físico JSON
 
+### Dependências
+- python 3.10
+- [pyfliget](https://pypi.org/project/pyfiglet/)
+- [colorama](https://pypi.org/project/colorama/)
+
 A aplicação se divide em três partes na qual cada uma irá ter uma responsabilidade específica, estas três partes são divididas em:
 
 - **Model** (Irá escrever e modificar os dados persistidos no arquivo JSON).
